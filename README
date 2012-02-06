@@ -1,5 +1,5 @@
 OpenFrameworks addon for accessing a Point Grey camera under windows.
-This addon is mixture of some other FireFly OpenFrameworks addons floating around - which unfortunately didn't work for me. Sorry for not giving credits, I will reveal this in a later state.
+This addon is mixture of some other FireFly OpenFrameworks addons floating around - which unfortunately didn't work for me. Sorry for not giving credits, I will reveal that in a later state.
 
 BE AWARE:
 This plugin is incomplete right now and atm only on github for sharing it to the OF community!
